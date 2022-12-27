@@ -1,22 +1,67 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		[
+			"Mistakes",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Amateur At Best",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Skill Issue",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Death Threat",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Swag Untouched",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"difficulties": "",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"storyName": "rae week real",
+	"weekName": "Rae Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
